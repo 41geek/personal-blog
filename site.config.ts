@@ -24,16 +24,16 @@ export default siteConfig({
     {
       name: 'Onyu Kim',                       // Author name
       avatar_dir: '/authors/Onyukim2025.jpg',   // Author avatar image path in public folder (28px x 28px recommended)
-      home_url: 'https://jzahnny.vercel.app/',   // Author home URL
+      home_url: 'https://weirdphysics.vercel.app/',   // Author home URL
     }
   ],
 
   // social links, the order is preserved.
   socials: {
-    github: 'alemem64',  // optional github username
-    linkedin: 'alemem64', // optional linkedin username
-    youtube: 'channel/UCV7iVbVip33wD_rsiQLSubg?si=Tf0bKAPvtDY_J833', // optional youtube channel id eg. channel/UCXXXXXXXXXXXXXXXXXXXXXX
-    instagram: 'alemem64', // optional instagram username
+    //github: 'alemem64',  // optional github username
+    //linkedin: 'alemem64', // optional linkedin username
+    //youtube: 'channel/UCV7iVbVip33wD_rsiQLSubg?si=Tf0bKAPvtDY_J833', // optional youtube channel id eg. channel/UCXXXXXXXXXXXXXXXXXXXXXX
+    //instagram: 'alemem64', // optional instagram username
     // tiktok: '#', // optional tiktok username
     // threads: '#', // optional threads username
     // facebook: '#',  // optional facebook profile id on profile page eg. 1000XXXXXXXXXXX
