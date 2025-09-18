@@ -12,7 +12,7 @@ export default siteConfig({
   author: 'Onyu Kim',
 
   // open graph metadata (optional)
-  description: 'Your Notion pages, reborn as a stunning blog',
+  description: 'Welcome to weird physics, the garage of Onyu Kim',
 
   // hero section (optional)
   heroAssets: [
