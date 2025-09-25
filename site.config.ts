@@ -47,6 +47,6 @@ export default siteConfig({
 
   // Incremental Static Regeneration (ISR) configuration
   isr: {
-    revalidate: 60 // revalidate time in seconds
+    revalidate: 30 // revalidate time in seconds
   }
 })
